@@ -1,7 +1,7 @@
 import pygame
 import math
 
-pygame.init()
+pygame.init()  # Initializing pygame
 
 width, height = 800, 800  # window initialization
 win = pygame.display.set_mode((width, height))
